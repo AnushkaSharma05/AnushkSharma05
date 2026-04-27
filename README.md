@@ -5,7 +5,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Sharma&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%E2%80%A2%20Building%20Production-Grade%20AI%20Systems&descSize=16&descAlignY=62&descColor=aac8ff"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=650&lines=End-to-End+ML+Pipeline+Engineer+%F0%9F%A4%96;96.99%25+R%C2%B2+%7C+CatBoost+%7C+XGBoost+%7C+Scikit-learn;Flask+%2B+Streamlit+%2B+Docker+Deployments;CGPA+9.05+%7C+MSIT%2C+New+Delhi+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7EB8F7&center=true&vCenter=true&width=650&lines=End-to-End+ML+Pipeline+Engineer+%F0%9F%A4%96;96.99%25+R%C2%B2+%7C+CatBoost+%7C+XGBoost+%7C+Scikit-learn;Flask+%2B+Streamlit+%2B+Docker+Deployments;Turning+Real-World+Problems+into+ML+Solutions)](https://git.io/typing-svg)
+
 
 <!-- BADGES -->
 <p>
@@ -31,7 +32,7 @@
 
 > *"I don't just train models — I engineer complete systems from raw data to deployed product."*
 
-I'm a **BTech IT student at MSIT, New Delhi** (CGPA: **9.05 / 10**) obsessed with turning real-world problems into intelligent, production-ready ML solutions. I've built and shipped complete end-to-end pipelines — from messy datasets and feature engineering all the way to containerized Flask & Streamlit deployments.
+I'm a **BTech IT student** obsessed with turning real-world problems into intelligent, production-ready ML solutions. I've built and shipped complete end-to-end pipelines — from messy datasets and feature engineering all the way to containerized Flask & Streamlit deployments.
 
 - 🔬 **Specialisation:** Regression Systems, Multi-Model Evaluation, ML Pipelines
 - 🏗️ **Built:** 3+ production-style ML apps with full inference APIs
@@ -192,7 +193,7 @@ ML system predicting Fire Weather Index (FWI) across 2 Algerian regions.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnushkaSharma05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-sh1307&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaSharma05&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 <br/>
 
@@ -202,13 +203,6 @@ ML system predicting Fire Weather Index (FWI) across 2 Algerian regions.
 
 ---
 
-## 🎓 Education
-
-**Maharaja Surajmal Institute of Technology** — New Delhi, India  
-🎓 B.Tech in Information Technology | **CGPA: 9.05 / 10.0** | 2024 – 2028
-
-
----
 
 <div align="center">
 
