@@ -1,4 +1,3 @@
-# AnushkSharma05
 <div align="center">
 
 <!-- ANIMATED HEADER -->
